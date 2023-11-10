@@ -6,7 +6,7 @@ intinclude main()
 	int i;
 	for(i=0;i<=20;i++)
 	
-		printf("i love you Namitha\t");
+		printf("kirankumar\t");
 		
 		printf("\n");
 	}
